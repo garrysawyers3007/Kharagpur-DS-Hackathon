@@ -1,5 +1,5 @@
 # Kharagpur-DS-Hackathon
-This is the repository for submissions of Team BITS in both the rounds for Kharagpur Data Science Hackathon, 2021, organized by Kharagpur Data Analytics Group.
+This is the repository for submissions of Team BITS for both rounds of Kharagpur Data Science Hackathon, 2021, organized by Kharagpur Data Analytics Group, IIT Kharagpur.
 
 ## Round 1: Mengary Revenue Prediction
 The link to the problem statement can be found [here](https://www.kaggle.com/c/mengary-revenue-prediction/overview).
